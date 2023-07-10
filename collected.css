@@ -1,0 +1,217 @@
+body{}
+div{}
+p
+.callacted{}
+#`collacted{}
+*{margin:0px;padding:0px;}
+.collacted{color:tomato!important;background:#80808070;
+     
+	 margin:auto;
+	 margin:100px;
+	 margin-bottom:100px;
+	 margin-left:100px;
+	 margin-top:100px;
+	 margin-right:100px;
+	 
+	 padding:100px;
+	 padding-bottom:100px;
+	 padding-left:100px;
+	 padding-right:100px;
+	 padding-top:100px;
+	 
+	 border:none;
+	 border-collapse:collapse;
+	 border:100px solid black;
+	 border-bottom:100px dotted black;
+	 border-top:100px dashed black;
+	 border-right:100px solid black;
+     border-left:100px solid black;	 
+	 border-width:2px;
+     border-style:solid;
+     border-color:red;
+     border-left:10px solid transparent;
+
+	 text-align:justify;
+	 text-align:center;
+	 
+	 display:inline-block;
+	 display:block;
+	 display:inline;
+	 display:grid;
+	 place-items:center;
+	 
+	 font-weight:bold;
+	 font-size:200px;
+	 font-family:arial;
+	 font-weight:900;
+	 
+	 text-decoration:none;
+	 text-decoration:overline;
+	 text-decoration:line-through;
+	 text-decoration:underline;
+	 
+	 line-height:10px;
+	 letter-spacing:10px;
+	 word-spacing:10px;
+	 
+	 text-transform:uppercase;
+	 text-transform:lowercase;
+	 text-transform:capitalize;
+	 
+	animation-direction:alternate;
+    animation-iteration-count:infinite;
+    animation-iteration-count:2;
+	animation-fill-mode:forwards;
+	animation-name:collacted;
+	animation-duration:2s;
+	animation-delay:5s;
+	
+
+	background:linear-gradient(#80808070,#80808070),url(file:///C://1.png);
+	background:url(file:///C:/.jpg);
+	background-repeat:no-repeat;
+    background-size:contain;
+    background-size:cover;
+    background-size:100%;
+    background:linear-gradient(red,blue,green,gray);
+    background:radial-gradient(green,black,gray,blue); 
+
+    height:100px;
+    width:900px;
+    max-width:100%;
+	
+    clear:both;
+	
+	list-style-type:circle;
+	list-style-type:square;
+	
+	visibility:hidden;
+	visibility:visible;
+	overflow:hidden;
+	overflow:scroll;
+	overflow:auto;
+	
+	position:absolute;top:10%;left:25%;
+	position:absolute;right:0px;
+    position:relative;right:0px;
+    position:fixed;right:0px;
+    position:sticky;right:0px;
+	
+	float:left;
+	float:right;
+	
+	right:1px;
+	left:2px;
+	
+	
+	transform:rotate(10deg);
+    transform:rotate(-10deg);
+    transform:rotatex(10deg);
+    transform:rotatey(10deg);
+
+    transform:scale(1.1);
+    transform:scale(0.5);
+    transform:scalex(1.1);
+    transform:scaley(1.1);
+
+    transform:skew(50deg);
+    transform:skew(-50deg);
+    transform:skewY(50deg);
+    transform:skewX(50deg);
+
+    transform:translate(100px);
+    transform:translate(-100px);
+    transform:translatex(100px);
+    transform:translatey(100px);
+	
+	perspective:200px;
+	  width:700;
+	
+	 transform-style:preserve-3d;
+	 text-shadow:4px -5px 4px white;
+     box-shadow:0px 0px 36px -7px black;
+	
+	transition:2s;
+	transition: width 2s ;
+	transition-timing-function:linear;
+	
+	
+	
+	cursor:pointer;
+	
+	  
+
+    transition-timing-function:linear;
+    transition-timing-function:ease;
+    transition-timing-function:ease-in;
+    transition-timing-function:ease-out;
+    transition-timing-function:ease-in-out;}
+
+	
+	
+	
+	
+	
+      } 
+.collacted:visited{}
+.collacted:active{}
+.collacted:hover{}
+.collacted:first-child{}
+.collacted:last-child{}
+.collacted:nth-child(2){}
+.collacted:nth-child(odd){}
+.collacted:nth-child(even){}
+
+
+
+.collacted a span:after{content:'';border-bottom:20px solid gray;border-left:20px solid transparent;transform:rotate(45deg);position:absolute;top:60%;left:50%;}
+.collacted a:hover span {visibility:visible;opacity:1;}
+
+.collacted span:after{content:"collacted";}
+.collacted span:before{content:"collacted";}
+
+@keyframes collacted{
+	0%{margin-top:0px;margin-left:0px;}
+	25%{margin-top:0px;margin-left:200px;}
+	50%{margin-top:200px;margin-left:200px;}
+	75%{margin-top:200px;margin-left:0px;}
+	100%{margin-top:0px;margin-right:0px;}
+	}
+	 
+	 
+@keyframes collacted{
+    from{margin-left:0px}
+    to{margin-left:200px}  }	 
+	
+@keyframes collacted{
+    from{margin-top:100px;opacity:0;}
+	to{margin-top:0px;opacity:1;}
+}
+	 
+	 
+	 
+	 
+.table{text-transform:capitalize;border-collapse:collapse; border-color:red;}
+.table thead th{padding:10px;color:white;background:black;font-family:arial black;
+  text-transform:uppercase}
+.table tbody tr td{padding:10px;}	 
+.table tbody tr:first-child {color:blue}
+.table tbody tr:last-child {color:green}
+.table tbody tr:nth-child(2) {color:tomato}
+
+.table0 tbody tr:nth-child(odd){background:black;color:#ddd}
+.table0 tbody tr:nth-child(even){background:tomato;color:gray;}	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
