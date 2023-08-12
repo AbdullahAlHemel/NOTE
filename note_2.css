@@ -1,0 +1,181 @@
+search: w3 school
+
+/* website for pdf to web design*/
+figma
+
+/*   note-1*/
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<script src="https://kit.fontawesome.com/d565b4e8fe.js" crossorigin="anonymous"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet"> 
+
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/abdullahhemel/NOTE.git
+git push -u oribgin main
+*/
+code .
+
+input:focus{color: rgb(102, 125, 255);}
+nav{display:flex;justify-content: space-between;align-items: center;}
+main {
+    max-width:1140px;
+    margin: 0 auto;}
+
+  ul.bottom li:nth-child(2n+1){background: red;}
+  
+  <style>
+    .boy-container{position: relative;height300px:400px;border:10px solid rgb(51, 255, 0);}
+    .boybox{border:1px dashed tomato;}
+    .boy{}
+    .redcircle{position:absolute;top:10px;}
+    .water{}
+</style>
+
+.note div
+input::placeholder{color:Red}
+p::first-line{color:red;font-size: 30px;}
+p::first-letter{color:red;font-size: 30px;}
+h3::after{content:'note'}
+
+
+    /*taiwand breakpoints*/
+        @media screen and (min-width:300px){
+            .note{background: brown;}} 
+		@media screen and (max-width:500px) {}
+		@media screen and (min-width:576px) and (max-width:992){}
+		
+		
+	/*fixed content for mobile*/          all size link:https://getbootstrap.com/docs/5.0/layout/breakpoints/
+	        @media screen and (max-width:576px){
+            .container{flex-direction: column;}
+        }
+		@media screen and (max-width:576px){
+    .container{grid-template-areas:
+        "header"
+        "nav"
+        "main"
+        "sidebar"
+        "advertise"
+        "footer"
+    }
+}
+@media screen and (min-width:576px) and (max-width:960px) {
+    .container{grid-template-areas: 
+        "header header header"
+        "nav nav nav"
+        "sidebar main main"
+        "ad footer footer";}
+}
+		
+.flex-box:nth-child(2){flex-basis:50%}
+
+.note{display: flex;flex-wrap: wrap;}
+.note{display:flex;flex:1}
+
+.note{
+justify-content: space-around;
+gap:40px;
+/* note related styles */
+border:0;
+background-image:url(../note/note.png);
+background-position: right-bottom;
+
+	
+/*
+parent X 2:10em
+relative:10em. 10vh. 10vw. vmin .vmax
+*/
+
+width:50em;
+height:50rem;
+width:50vw;
+height:50vh;
+width:100vmin;
+width:100vmax;
+height: calc((100% - 5%)/1);
+
+justify-content:end;
+  justify-content:center;
+justify-content:space-between;
+  justify-content:space-evenly;
+justify-content:space-around;
+
+
+display:flex;
+/*smart-box: */
+justify-content:space-around;
+               align-items:center;
+			   
+align-items:stretch;
+justify-items: center;
+align-self: center;
+
+flex-direction: row;
+flex-direction: column;
+flex-direction: row-reverse;
+flex-direction: column-reverse;
+
+flex-wrap: wrap;
+flex-wrap:no-wrap;
+flex-wrap:wrap-reverse;                                                                                                             
+
+width:auto;
+max-width: max-content;
+width:min-content;
+width: fit-content;
+
+/*parents*/
+grid-template-columns: 100px 100px 100px;
+        grid-template-rows: 100px 100px;
+		
+/*child version*/
+grid-column: 1/3;grid-row: 1/2;
+   
+ grid-template-columns: repeat(12,1fr);
+ grid-template-columns: repeat(12,auto-fit);
+ grid-template-columns: 1fr 1fr 1fr;
+ grid-template-rows: 1fr 1fr;
+ grid-template-columns:200px 100px 200px;	
+ grid-template-columns:repeat(2, 250px);
+ grid-template-columns:repeat(2, 100px 250px);
+ grid-template-columns:repeat(2, 2fr) 4fr;
+ grid-template-columns:100px auto 100px;	
+
+ 
+		
+/*never change for zoom in out :vh*/
+ height: 44vh;
+        width: 100vh;
+		
+/*topbar made */
+nav{display: flex;justify-content: space-around;}}
+
+/*edit box*/
+.header{grid-area : header;}
+.note{grid-template-areas:
+    "header header header header"
+    "nav    main   main   sidebar"
+    "nav    main   main   advertise"
+    "footer footer footer footer";}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://chaytisaha98.medium.com/practise-with-dev-challenges-d2be84823871
