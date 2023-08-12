@@ -1,8 +1,29 @@
 all is here:  tailwind css
 
+search : tailwind css component free		
+
+Daisy UI
+Boostrap
+flowbite
+
+
  <script src="https://cdn.tailwindcss.com"></script>
 </head>
 
 .bg-purple-400.h24.w-24
 
 customzie color :class="text-[#ff5200]"
+bg-gradient-to-r from-[#a4bc46] to-[#72ba1f]
+
+icon: hero icon
+
+flex:  flex-col md:flex-row
+       flex-1
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   recover[module:10,14]
