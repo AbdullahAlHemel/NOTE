@@ -4,14 +4,14 @@ To open the Settings editor, navigate to File > Preferences > Settings. You can 
 
 
    
-{
+
      //top_color
     
     
     
     
     
-    "editor.fontSize": 24,
+   { "editor.fontSize": 24,
     "liveServer.settings.donotShowInfoMsg": true,
     "editor.renderWhitespace": "none",
     "notebook.showCellStatusBar": "hidden",
