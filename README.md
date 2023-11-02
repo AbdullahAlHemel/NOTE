@@ -1,3 +1,5 @@
+vs code all setup code here
+
 {
     "editor.fontSize": 24,
     "liveServer.settings.donotShowInfoMsg": true,
