@@ -1,4 +1,10 @@
-vs code all setup code here
+vs code all setup code here:
+
+
+
+
+
+
 
 {
     "editor.fontSize": 24,
