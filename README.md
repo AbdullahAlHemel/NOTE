@@ -3,7 +3,7 @@ vs code all setup code here:
 To open the Settings editor, navigate to File > Preferences > Settings. You can also open the Settings editor from the Command Palette (Ctrl+Shift+P) with Preferences: Open Settings or use the keyboard shortcut (Ctrl+,).
 
 
-
+    //top_color
 {
     "editor.fontSize": 24,
     "liveServer.settings.donotShowInfoMsg": true,
@@ -11,7 +11,7 @@ To open the Settings editor, navigate to File > Preferences > Settings. You can 
     "notebook.showCellStatusBar": "hidden",
     "workbench.settings.openDefaultKeybindings": false,
     
-    //top_color
+
      "window.titleBarStyle": "native",
 
     "workbench.preferredDarkColorTheme": "Default High Contrast",
