@@ -1,8 +1,6 @@
 vs code all setup code here:
 
-
-
-
+To open the Settings editor, navigate to File > Preferences > Settings. You can also open the Settings editor from the Command Palette (Ctrl+Shift+P) with Preferences: Open Settings or use the keyboard shortcut (Ctrl+,).
 
 
 
